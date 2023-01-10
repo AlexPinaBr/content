@@ -20,7 +20,7 @@ Dominar el uso de listas y bucles es una de las 5 habilidades fundamentales para
 
 ## ¿Qué son las Funciones?
 
-Básicamente, una función un conjunto de lineas de código agrupadas para cumplir un objetivo específico, por ejemplo veamos esta función para multiplicar dos números:
+Básicamente, una función es un conjunto de líneas de código agrupadas para cumplir un objetivo específico. Veamos, por ejemplo, esta función para multiplicar dos números:
 
 ```python
 def multiplicar(a,b):
